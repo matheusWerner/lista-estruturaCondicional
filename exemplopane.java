@@ -13,7 +13,7 @@ public static void main (String[] ars){
 
    if (opcao == JOptionPane.OK_OPTION) {
 
-       JOptionPane.showMessageDialog(null, "Registrado salvo com sucesso");
+       JOptionPane.showMessageDialog(null, "Registrado sa2lvo com sucesso");
        
    } else if (opcao == JOptionPane.NO_OPTION) {
 
