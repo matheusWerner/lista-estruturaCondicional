@@ -38,21 +38,21 @@ public class Exerciciodezesseis{
 
     } else if (conversao == 4) {
 
-        origem = origem = 273;
+        origem = origem + 273;
 
 
         JOptionPane.showMessageDialog(null, "A converão é :" + origem "K");
 
     } else if (conversao == 5) {
 
-        origem = (origem + 459.67) * ;
+        origem = (origem * 9/5) - 459.67;
 
 
         JOptionPane.showMessageDialog(null, "A converão é :" + origem "F");
 
     } else if (conversao == 6) {
 
-        origem = (origem-32) / 1.8;
+        origem = (origem + 459.67) * 5/9;
 
 
         JOptionPane.showMessageDialog(null, "A converão é :" + origem "K");
