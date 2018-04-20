@@ -20,42 +20,42 @@ public class Exerciciodezesseis{
         origem = (origem-32) / 1.8;
 
 
-        JOptionPane.showMessageDialog(null, "A converão é : " + origem + " C");
+        JOptionPane.showMessageDialog(null, "A conversão é: " + origem + " C");
 
     } else if (conversao == 2) {
 
         origem = (origem*1.8) + 32;
 
 
-        JOptionPane.showMessageDialog(null, "A converão é : " + origem + " F");
+        JOptionPane.showMessageDialog(null, "A conversão é: " + origem + " F");
 
     } else if (conversao == 3) {
 
         origem = 273 - origem;
 
 
-        JOptionPane.showMessageDialog(null, "A converão é : " + origem + " C");
+        JOptionPane.showMessageDialog(null, "A conversão é: " + origem + " C");
 
     } else if (conversao == 4) {
 
         origem = origem + 273;
 
 
-        JOptionPane.showMessageDialog(null, "A converão é : " + origem + " K");
+        JOptionPane.showMessageDialog(null, "A conversão é: " + origem + " K");
 
     } else if (conversao == 5) {
 
         origem = (origem * 9/5) - 459.67;
 
 
-        JOptionPane.showMessageDialog(null, "A converão é : " + origem + " F");
+        JOptionPane.showMessageDialog(null, "A conversão é: " + origem + " F");
 
     } else if (conversao == 6) {
 
         origem = (origem + 459.67) * 5/9;
 
 
-        JOptionPane.showMessageDialog(null, "A converão é : " + origem + " K");
+        JOptionPane.showMessageDialog(null, "A conversão é: " + origem + " K");
 
     } 
 
