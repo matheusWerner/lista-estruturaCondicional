@@ -25,7 +25,7 @@ public clss ExemploWhile{
             atual = atual +1;                  
         }
 
-        JOptionPane.showMessageDialog(null, "A maior idade ´´e: " + maior Idade);
+        JOptionPane.showMessageDialog(null, "A maior idade é: " + maior Idade);
 
 
            
